@@ -1,7 +1,3 @@
-# THIS IS NOT THE OFFICLAL REPO! IT HAS BEEN TAKEN DOWN AND I DECIDED TO MAKE A BACKUP OF IT! ORIGINAL REPO WAS [HERE](https://github.com/CowNowK/AimStar)
-
-
-
 # Cheat Status: 🟢 Available
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/CowNowK/AimStar/master/AS_Logo.png" alt="icon" style="width: 100px; height: 100px"><br>
